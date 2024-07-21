@@ -1,6 +1,6 @@
 import { Outlet, useNavigation } from "react-router-dom"; //useNavigation
 import CartOverview from "../features/cart/CartOverview";
-import Header from "./Header.";
+import Header from "./Header";
 import Loader from "./Loader";
 
 const AppLayout = () => {
